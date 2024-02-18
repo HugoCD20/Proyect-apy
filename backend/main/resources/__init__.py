@@ -1,0 +1,10 @@
+from .Clientes import Clientes as ClientesResources
+from .Clientes import Cliente as ClienteResources
+from .Usuarios import Usuarios as UsuariosResources
+from .Usuarios import Usuario as UsuarioResources
+from .Productos import Producto as ProductoResources
+from .Productos import Productos as ProductosResources
+from .Compra import Compra as CompraResources
+from .Compra import Compras as ComprasResources
+from .ProductoCompra import ProductoCompra as ProductoCompraResources
+from .ProductoCompra import ProductosCompras as ProductosComprasResources
